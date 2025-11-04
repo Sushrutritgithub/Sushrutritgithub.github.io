@@ -37,7 +37,7 @@ const Portfolio = () => {
     { icon: SiLeetcode, href: 'https://leetcode.com/u/sushrut_05/', label: 'LeetCode' },
     { icon: SiCodeforces, href: 'https://codeforces.com/profile/Sushrut_05', label: 'Codeforces' },
     { icon: SiGeeksforgeeks, href: 'https://www.geeksforgeeks.org/user/sushrutdesqvpu/', label: 'GeeksforGeeks' },
-    { icon: FileText, href: '/resume.pdf', label: 'Resume' },
+    { icon: FileText, href: 'https://drive.google.com/file/d/1SfztM4RASP74QU7_x2ZZ0pa3FNUwdJHp/view?usp=sharing', label: 'Resume' },
   ];
 
   const languages = [
